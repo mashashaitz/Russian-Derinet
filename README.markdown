@@ -7,4 +7,4 @@ The resulting database and testing files are in the "result" folder.
 
 The source dictionaries are in the "raw_dicts" folder.
 
-######Thank you for the attention!
+###### Thank you for your attention!
