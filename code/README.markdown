@@ -1,3 +1,7 @@
-there are two programes written in Python 3.8: 
-LogReg + DecTree.ipynb is for creating the dataset 
-and to_uder_NX.ipynb serves for harmonization of data
+The programmes are written in jupyter notebooks, Python 3.8.2.
+
+There are two programmes:
+
+1) "LogReg + DecTree.ipynb" creates the dataset of most eligible parent-children word pairs, using Logistic Regression and Decision Trees classifiers.
+
+2) "to_uder_NX.ipynb" cleans the data from the least , harmonization of data
