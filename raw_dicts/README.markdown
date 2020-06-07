@@ -1,7 +1,5 @@
-The dictionaries used for creating the network are the Russian Word Formation dictionary of A. N. Tixonov (1985) and A. I. Kuzneczova and T. F. Efremova’s Dictionary of Russian Morphemes (1992).
+The dictionaries used for creating the network are: 
 
-The Russian Word Formation dictionary of A. N. Tixonov (1985) contains approximately 60 000 lemmas from 1500 derivational families. 
+1) The Russian Word Formation dictionary of A. N. Tixonov (1985), which was only avaliable online. The dictionary was downloaded, cleaned and stored in "nests.json.zip" in the "preprocessed_dicts" folder.
 
-A. I. Kuzneczova and T. F. Efremova’s Dictionary of Russian Morphemes (1986) contains more than 70 000 words. 
-
-Around 34 000 words are represented in both dictionaries.
+2) A. I. Kuzneczova and T. F. Efremova’s Dictionary of Russian Morphemes (1992), which is stored in "kuzdra.csv.zip".
